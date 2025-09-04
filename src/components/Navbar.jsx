@@ -14,10 +14,10 @@ export const Navbar = () => {
 				</Link>
 				<div style={{ marginLeft: "auto", marginRight: "70px" }}>
 					<Link to="/Favorites">
-						<button className="btn btn-warning">hello</button>
+						<button className="btn btn-warning">Favoritos</button>
 					</Link>
 				</div>
 			</div>
 		</nav>
 	);
-};
+}; 
